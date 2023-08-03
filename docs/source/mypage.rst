@@ -14,6 +14,10 @@ MCUXpresso SDK board support provides example applications for NXP development a
     - rtos_examples: Basic FreeRTOS OS examples showcasing the use of various RTOS objects (semaphores, queues, and so on) and interfacing with the MCUXpresso SDK’s RTOS drivers.
     - multicore_examples: Simple applications intended to concisely illustrate how to use middleware/multicore stack.
 
+.. image:: images/MCUXpresso.png
+  :width: 800
+  :alt: Alternative text
+
 Here we describe how to use ARM GCC toolchain, officially supported following Getting Started with MCUXpresso SDK for MCIMX93-EVK.pdf.
 
 Prerequisites
